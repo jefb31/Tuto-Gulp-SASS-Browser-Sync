@@ -24,4 +24,4 @@ Dans le dossier dist se trouvent tous les fichiers de "production", c'est à dir
 
 Dans le dossier src se trouvent tous les fichiers .scss que tu n'utilises que pour le développement. 
 
-Voilà, n'hésites pas à me poser des questions si tu rencontres de problème, nottament sur windaube ;) Que tu maitriseras ça, je te montrerais plein d'autres choses que tu peux faire avec gulp :) (ou tu pourras le découvrir par toi même)
+Voilà, n'hésites pas à me poser des questions si tu rencontres des problèmes, nottament sur windaube ;) Que tu maitriseras ça, je te montrerais plein d'autres choses que tu peux faire avec gulp :) (ou tu pourras le découvrir par toi même)
